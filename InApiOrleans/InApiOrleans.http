@@ -1,0 +1,6 @@
+@InApiOrleans_HostAddress = http://localhost:5269
+
+GET {{InApiOrleans_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
